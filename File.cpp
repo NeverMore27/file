@@ -17,7 +17,7 @@ void main()
 {
 	
 
-	char n1[256], n2[raz], n3[raz];
+	char n1[raz], n2[raz], n3[raz];
 	cin.getline(n1, raz);
 	cin.getline(n2, raz);
 	cin.getline(n3, raz);
