@@ -10,6 +10,7 @@
 #define raz 256
 
 using namespace std;
+//master
 
 void Files(char* name1, char* name2);
 
